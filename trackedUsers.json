@@ -1,0 +1,37 @@
+[
+    {
+        "hostname": "ikaros",
+        "location": "S143",
+        "headTrackingID": 43
+    },
+    {
+        "hostname": "minos",
+        "location": "S143",
+        "headTrackingID": 44
+    },
+    {
+        "hostname": "hydra",
+        "location": "DBL",
+        "headTrackingID": 48
+    },
+    {
+        "hostname": "belos",
+        "location": "DBL",
+        "headTrackingID": 47
+    },
+    {
+        "hostname": "minint-nlm3jic",
+        "location": "DBL",
+        "headTrackingID": 45
+    },
+    {
+        "hostname": "artemis",
+        "location": "S143",
+        "headTrackingID": 44
+    },
+    {
+        "hostname": "default",
+        "location": "DBL",
+        "headTrackingID": 0
+    }
+]

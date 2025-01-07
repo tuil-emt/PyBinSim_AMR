@@ -1,0 +1,32 @@
+[
+    {
+        "locationName": "DBL",
+        "dTrackPort": 5012,
+        "filterDatabase": "brirs/example_mat.mat",
+        "globalTranslation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "globalRotation": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "locationName": "S143",
+        "dTrackPort": 5006,
+        "filterDatabase": "brirs/example_mat_hp.mat",
+        "globalTranslation": [
+            0.0,
+            0.0,
+            2.3
+        ],
+        "globalRotation": [
+            0.0,
+            180.0,
+            0.0
+        ]
+    }
+]
